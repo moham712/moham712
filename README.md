@@ -25,7 +25,7 @@
 - 🌍 Based in **Algeria**, open to remote opportunities
 - 🔭 Currently building & learning **Cloud + DevOps**
 - 🧠 Exploring **AI/ML** integrations in web apps
-- 📬 Reach me at **[your@email.com](mailto:your@email.com)**
+- 📬 Reach me at **[your@email.com](sifimmohamed@gmail.com)**
 - ⚡ Fun fact: I think in loops and dream in functions
 
 <br clear="right"/>
